@@ -2,4 +2,4 @@
 Shooter game created using PyGame :)
 
 This game is build purely using Python
-This is my first code
+and this is my first code
